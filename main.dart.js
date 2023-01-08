@@ -49546,7 +49546,7 @@ A.u9.prototype={
 bg(){this.bV()
 this.y0()},
 y0(){this.a.toString
-A.Vh("snorlax.riv").aE(this.gMU(),t.H)},
+A.Vh("assets/snorlax.riv").aE(this.gMU(),t.H)},
 bs(a){var s,r=this
 r.a.toString
 s=!1
